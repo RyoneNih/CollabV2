@@ -368,7 +368,7 @@ case 'ownermenu':
 case 'omenu':
    client.sendMessage(from, ownermenu(prefix), text)
    break
-const 'makermenu':
+case 'makermenu':
    client.sendMessage(from, makermenu(prefix), text)
    break
                 case 'bahasa':
